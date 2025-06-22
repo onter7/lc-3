@@ -11,4 +11,4 @@ Supported instructions: **ADD**, **AND**, **BR**, **JMP**, **LD**, **LDI**, **LD
 
 `microcode.hex` contains the compiled microcode and must be regenerated after any changes to `lc3_states.xlsx`.
 
-![LC-3 v1 schematic](/v1.png)
+![LC-3 v1 schematic](/v1_schema.png)
